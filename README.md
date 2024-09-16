@@ -59,7 +59,7 @@ Significant progress has been made, and several tests have been conducted to ens
 This project has enhanced the group's understanding of mechanical properties and electrical circuitry. Members have learned about properties of materials such as tensile strength, elasticity, and electrical circuit design, particularly in creating H-bridge PWM motor controllers.
 
 ## Part of our report
-📄 [exoarm.pdf](./exoarmdrexel.pdf)
+[embed]./exoarmdrexel.pdf[/embed] 
 
 ---
 
