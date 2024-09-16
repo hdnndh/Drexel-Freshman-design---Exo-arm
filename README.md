@@ -1,10 +1,9 @@
 # Drexel-Freshman-design---Exo-arm
 
 ## Overview
-**ExoArm** is a project aimed at constructing a safe and functional prototype of a device that can assist in human motion. The device is designed to lift objects up to 70 kg using a 12V motor with a worm drive. The project's primary focus is on safety since the device will be used on the human body. Comprehensive tests, safeguarding methods, and alerting systems are employed to ensure the ExoArm's safety and efficiency.
+**ExoArm** is a project aimed at constructing a safe and functional prototype of a device that can assist in human motion. The device is designed to lift objects using a 12V motor with a worm drive. The project's primary focus is on safety since the device will be used on the human body. Comprehensive tests, safeguarding methods, and alerting systems are employed to ensure the ExoArm's safety and efficiency.
 
 ## Key Features
-- **Load Capacity**: Can lift objects up to 70 kg with the capability to change the maximum load by adjusting the gear ratio.
 - **Safety**: Prioritizes user safety through numerous tests and safeguarding methods.
 - **Efficiency**: Uses a worm drive for efficiency and irreversible rotation direction.
 - **Cost-Effective**: Designed to be economical and accessible.
@@ -17,14 +16,14 @@
   - Hoang Doan Nguyen, hdn28@drexel.edu
 
 ## Abstract
-ExoArm is a project whose goal is to construct a safe and functional prototype of a device that can help with human’s motion. This product is aimed to lift any object up to 70kgs with the 12V motor by using a worm drive which consists of a worm and worm gear. The efficiency of the product is based on the drive’s irreversible direction of rotation and its gearing ratio. In this project, the group put safety as the first priority since the device is used on the human body. Hence, tests, safeguarding methods, and alerting systems will make sure that ExoArm is safe. By minimizing risk and maximizing efficiency, the product aims to be useful, efficient, and economical.
+ExoArm is a project whose goal is to construct a safe and functional prototype of a device that can help with human’s motion. This product is aimed to lift objects with the 12V motor by using a worm drive which consists of a worm and worm gear. The efficiency of the product is based on the drive’s irreversible direction of rotation and its gearing ratio. In this project, the group put safety as the first priority since the device is used on the human body. Hence, tests, safeguarding methods, and alerting systems will make sure that ExoArm is safe. By minimizing risk and maximizing efficiency, the product aims to be useful, efficient, and economical.
 
 ## Introduction
 ### Problem Overview
 In a developing world where technology has created convenience for humans, assisting in their best potential, there remains one simple daily task: lifting. It can range from picking up a cup of water that weighs 0.5 kg to carrying a 100 kg box. Our group created ExoArm to help people pick up heavy objects easily without requiring human power. It not only lifts but also holds heavy objects for extended periods. Targeted at a wide range of audiences, the ExoArm must be affordable.
 
 ### Project Objectives
-Our goal is to create a safe and cost-efficient ExoArm that can lift up to 200 lbs using 12V. The maximum load can be adjusted by changing the gear ratio while ensuring user safety.
+Our goal is to create a safe and cost-efficient ExoArm using 12V motor. The maximum load can be adjusted by changing the gear ratio while ensuring user safety.
 
 ## Technical Activities
 ### Project Timeline
